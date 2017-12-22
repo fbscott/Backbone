@@ -1,0 +1,122 @@
+RAD.AncestorsJSON = [
+    {
+        "id"         : 1,
+        "firstName"  : "Scott",
+        "middleName" : "",
+        "lastName"   : "Currell",
+        "father"     : 2,
+        "mother"     : 3
+    },
+    {
+        "id"         : 2,
+        "firstName"  : "My",
+        "middleName" : "",
+        "lastName"   : "Dad",
+        "father"     : 4,
+        "mother"     : 5
+    },
+    {
+        "id"         : 3,
+        "firstName"  : "My",
+        "middleName" : "",
+        "lastName"   : "Mom",
+        "father"     : 6,
+        "mother"     : 7
+    },
+    {
+        "id"         : 4,
+        "firstName"  : "paternal",
+        "middleName" : "",
+        "lastName"   : "grandfather",
+        "father"     : 8,
+        "mother"     : 9
+    },
+    {
+        "id"         : 5,
+        "firstName"  : "paternal",
+        "middleName" : "",
+        "lastName"   : "grandmother",
+        "father"     : 10,
+        "mother"     : 11
+    },
+    {
+        "id"         : 6,
+        "firstName"  : "maternal",
+        "middleName" : "",
+        "lastName"   : "grandfather",
+        "father"     : 12,
+        "mother"     : 13
+    },
+    {
+        "id"         : 7,
+        "firstName"  : "maternal",
+        "middleName" : "",
+        "lastName"   : "grandmother",
+        "father"     : 14,
+        "mother"     : 15
+    },
+    {
+        "id"         : 8,
+        "firstName"  : "1st paternal",
+        "middleName" : "great",
+        "lastName"   : "grandfather",
+        "father"     : "",
+        "mother"     : ""
+    },
+    {
+        "id"         : 9,
+        "firstName"  : "1st paternal",
+        "middleName" : "great",
+        "lastName"   : "grandmother",
+        "father"     : "",
+        "mother"     : ""
+    },
+    {
+        "id"         : 10,
+        "firstName"  : "2nd paternal",
+        "middleName" : "great",
+        "lastName"   : "grandfather",
+        "father"     : "",
+        "mother"     : ""
+    },
+    {
+        "id"         : 11,
+        "firstName"  : "2nd paternal",
+        "middleName" : "great",
+        "lastName"   : "grandmother",
+        "father"     : "",
+        "mother"     : ""
+    },
+    {
+        "id"         : 12,
+        "firstName"  : "1st maternal",
+        "middleName" : "great",
+        "lastName"   : "grandfather",
+        "father"     : "",
+        "mother"     : ""
+    },
+    {
+        "id"         : 13,
+        "firstName"  : "1st maternal",
+        "middleName" : "great",
+        "lastName"   : "grandmother",
+        "father"     : "",
+        "mother"     : ""
+    },
+    {
+        "id"         : 14,
+        "firstName"  : "2nd maternal",
+        "middleName" : "great",
+        "lastName"   : "grandfather",
+        "father"     : "",
+        "mother"     : ""
+    },
+    {
+        "id"         : 15,
+        "firstName"  : "2nd maternal",
+        "middleName" : "great",
+        "lastName"   : "grandmother",
+        "father"     : "",
+        "mother"     : ""
+    }
+]

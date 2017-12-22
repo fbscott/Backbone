@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>RESTful API Demo</title>
+<link href="./assets/css/bootstrap.css" rel="stylesheet">
+<link href="./assets/css/application.css" rel="stylesheet">
+<!--source scripts startup-->
+<script src="./assets/js/lib/jquery.js"></script>
+<!--end source scripts startup-->
+</head>
+
+<body>
+
+<div class="navbar navbar-inverse navbar-fixed-top">
+  <div class="navbar-inner">
+    <div class="container">
+      <span class="brand">RESTful API Demo</span>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <p>Lorem ipsum</p>
+</div>
+
+<div id="mainRegion" class="container">
+  <p>Loading . . .</p>
+</div>
+
+<!--JS goes here -->
+
+<!--source scripts core-->
+<!-- <script src="./assets/js/lib/json2.js"></script> -->
+<script src="./assets/js/lib/underscore.js"></script>
+<script src="./assets/js/lib/backbone.js"></script>
+<script src="./assets/js/lib/backbone.marionette.js"></script>
+<!-- <script src="./assets/js/lib/backbone.stickit.js"></script> -->
+<script src="./assets/js/core/template-utilities.js"></script>
+<!-- <script src="./assets/js/core/app-utilities.js"></script> -->
+<!-- <script src="./assets/js/core/app-behaviors.js"></script> -->
+<!--end source scripts core-->
+
+<!--template scripts-->
+<script type="text/html" id="posts-table-headers" srcTmpl="./assets/js/templates/posts-table-headers.html"></script>
+<script type="text/html" id="posts-table-row"     srcTmpl="./assets/js/templates/posts-table-row.html"></script>
+<!--end template scripts-->
+
+<!--source scripts jsapp-->
+<script src="./assets/js/app-config.js"></script>
+<!-- <script src="./assets/js/data/pedigree.json"></script> -->
+<script src="./assets/js/controller.js"></script>
+<script src="./assets/js/models/radModel.js"></script>
+<script src="./assets/js/collections/radCollection.js"></script>
+<script src="./assets/js/views/radItemView.js"></script>
+<script src="./assets/js/views/radCompositeView.js"></script>
+<script src="./assets/js/app.js"></script>
+<!--end source scripts jsapp-->
+
+</body>
+</html>
